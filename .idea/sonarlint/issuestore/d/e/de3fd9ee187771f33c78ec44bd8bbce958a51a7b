@@ -1,0 +1,4 @@
+
+csquid:S2259"@A "NullPointerException" could be thrown; "sb" is nullable here.(ƒ´î˜ÿÿÿÿÿ8—üáŽñ-
+Xsquid:S1854"5Remove this useless assignment to local variable "a".(±ˆàœýÿÿÿÿ8žÔ¿‹ñ-
+Isquid:S1481"&Remove this unused "a" local variable.(±ˆàœýÿÿÿÿ8žÔ¿‹ñ-
